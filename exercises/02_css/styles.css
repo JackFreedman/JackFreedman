@@ -1,7 +1,15 @@
 /* Structure */
+:root{
+    --primary-color:#FF8000;
+    --secondary-color:#818589;
+    --background-color: bisque;
+}
 body{
-    background-color: bisque;
     font-family: Arial, Helvetica, sans-serif;
+    background:url('images/download.png');
+    background-size:100%;
+}
+    
     
     h1 {color: #FF8000;}
 
