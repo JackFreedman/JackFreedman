@@ -1,18 +1,43 @@
-/* Structure */
+
 body {
-    background-color: #FAEBD7;
+    background-color: #40403f;
     font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-wrap: wrap;
    }
    h1 {
-    color: #8FBC8F;
+    color: white;
     text-align: center;
     width: 100%;
     display: block;
    }
-
-/* Navigation */
-
-/* Typography */
-
-/* Media Queries */
-
+   h1:hover {
+    color: #bfbfbf;
+    text-align: center;
+    width: 100%;
+    display: block;
+   }
+   a {
+    text-decoration: none;
+    color: black;
+   }
+   .assign {
+    background-color: #edebab;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    display: block;
+    width: 20%;
+    box-shadow: 8px 8px #add8e6;
+   
+   }
+   .assign img {
+    width: 200px;
+    margin: 10px;
+    border: 2px solid midnightblue;
+   }
+   .assign img:hover {
+    width: 200px;
+    margin: 10px;
+    border: 2px dotted black;
+   }
