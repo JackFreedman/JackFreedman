@@ -1,43 +1,23 @@
+/* Structure */
+body{
+    background-color: bisque;
+    font - family:Arial, Helvetica, sans-serif;
+    
+    h1 {
+        color: #006400;
+        text-align: center;
+        width: 100%;
+        display: block;
+       }
+}
+#content {
+    width 70%;
+    margin:auto;
+    background:wheat(255,255,255,0.6);
+    border - radius:5px;
+}
+/* Navigation */
 
-body {
-    background-color: #40403f;
-    font-family: Arial, Helvetica, sans-serif;
-    display: flex;
-    flex-wrap: wrap;
-   }
-   h1 {
-    color: white;
-    text-align: center;
-    width: 100%;
-    display: block;
-   }
-   h1:hover {
-    color: #bfbfbf;
-    text-align: center;
-    width: 100%;
-    display: block;
-   }
-   a {
-    text-decoration: none;
-    color: black;
-   }
-   .assign {
-    background-color: #edebab;
-    margin: 10px;
-    padding: 10px;
-    border-radius: 20px;
-    display: block;
-    width: 20%;
-    box-shadow: 8px 8px #add8e6;
-   
-   }
-   .assign img {
-    width: 200px;
-    margin: 10px;
-    border: 2px solid midnightblue;
-   }
-   .assign img:hover {
-    width: 200px;
-    margin: 10px;
-    border: 2px dotted black;
-   }
+/* Typography */
+
+/* Media Queries */
