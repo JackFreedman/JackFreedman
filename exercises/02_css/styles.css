@@ -1,16 +1,20 @@
 /* Structure */
-body{
-    background-color: blanchedalmond;
-    font - family:Arial, Helvetica, sans-serif;
-}
-#content {
-    width 70%;
-    margin:auto;
-    background:wheat(255,255,255,0.6);
-    border - radius:5px;
-}
+body {
+    background-color: #40403f;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+   }
+   h1 {
+    color: white;
+    text-align: center;
+    width: 100%;
+    display: block;
+   }
+
 /* Navigation */
 
 /* Typography */
 
 /* Media Queries */
+
