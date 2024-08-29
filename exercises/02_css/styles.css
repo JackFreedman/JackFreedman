@@ -10,12 +10,6 @@ body{
         display: block;
        }
 }
-#content {
-    width 70%;
-    margin:auto;
-    background:wheat(255,255,255,0.6);
-    border - radius:5px;
-}
 /* Navigation */
 
 /* Typography */
