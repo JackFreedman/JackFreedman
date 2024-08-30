@@ -51,7 +51,7 @@ p{
     color:var(--primary-color)
 }
 table {
-    color:var(--primary-color)
+    color:var(--secondary-color)
 }
 strong {
     background:var(--secondary-color);
