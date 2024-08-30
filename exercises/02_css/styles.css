@@ -6,7 +6,7 @@
 }
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background:url('images/download.png');
+    background:url('images/mclaren-brand-symbol-logo-white-design-british-car-automobile-illustration-with-black-background-free-vector.jpg');
     background-size:100%;
 }
 #content {
@@ -28,7 +28,7 @@ body{
 #main-nav li {
     list-style-type: none;
     display:inline-block;
-    background:var(--secondary-color);
+    background:var(--primary-color);
     padding:5px;
     border-radius:2px;
 }
@@ -51,7 +51,7 @@ p{
     color:var(--primary-color)
 }
 strong {
-    background:var(--primary-color);
+    background:var(--secondary-color);
     padding:5px;
     text-decoration-line: underline;
 }
