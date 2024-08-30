@@ -51,7 +51,7 @@ p{
     color:var(--primary-color)
 }
 strong {
-    background:var(--secondary-color);
+    background:var(--primary-color);
     padding:5px;
     text-decoration-line: underline;
 }
