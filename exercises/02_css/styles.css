@@ -41,5 +41,10 @@ body{
 }
 
 /* Typography */
-
+h1 {
+    color:var(--primary-color);
+}
+h2{
+    color:var(--primary-color);
+}
 /* Media Queries */
