@@ -28,7 +28,7 @@ body{
 #main-nav li {
     list-style-type: none;
     display:inline-block;
-    background:var(--primary-color);
+    background:var(--secondary-color);
     padding:5px;
     border-radius:2px;
 }
@@ -37,7 +37,7 @@ body{
     text-decoration: none;
 }
 #main-nav a:hover {
-    color:var(--background-color);
+    color:var(--primary-color);
 }
 
 /* Typography */
