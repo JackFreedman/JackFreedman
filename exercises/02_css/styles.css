@@ -45,14 +45,12 @@ h1 {
     color:var(--primary-color);
 }
 h2{
-    color:var(--secondary-color);
+    color:var(--primary-color);
 }
 p{
     color:var(--primary-color)
 }
-table {
-    color:var(--primary-color)
-}
+
 strong {
     background:var(--secondary-color);
     padding:5px;
