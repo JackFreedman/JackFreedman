@@ -41,6 +41,12 @@ body{
 }
 
 /* Typography */
+
+table, th, td{
+    border: 1px #FF8000;
+
+}
+
 h1 {
     color:var(--primary-color);
 }
@@ -49,11 +55,6 @@ h2{
 }
 p{
     color:var(--primary-color)
-}
-
-table, th, td{
-    border: 1px #FF8000;
-    border-collapse: collapse;
 }
 
 strong {
