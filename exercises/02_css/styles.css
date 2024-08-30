@@ -41,12 +41,6 @@ body{
 }
 
 /* Typography */
-
-table, th, td{
-    border: 1px #FF8000;
-
-}
-
 h1 {
     color:var(--primary-color);
 }
