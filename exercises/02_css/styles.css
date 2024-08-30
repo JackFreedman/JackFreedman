@@ -50,6 +50,9 @@ h2{
 p{
     color:var(--primary-color)
 }
+table {
+    color:var(--primary-color)
+}
 strong {
     background:var(--secondary-color);
     padding:5px;
