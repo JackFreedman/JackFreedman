@@ -15,17 +15,30 @@ body{
     margin:auto;
     border-radius: 5px 50px 50px 0px
 }
-    
-    
-    h1 {color: #FF8000;}
-
-    h2 {color: #FF8000;}
-
-    p {color:#FF8000;}
-
-    
+#main-header, #main-footer {
+    background:var(--background-color);
+    padding:10px;
 }
+ 
+#main-content {
+    padding:10px;
+}
+
 /* Navigation */
+#main-nav li {
+    list-style-type: none;
+    display:inline-block;
+    background:var(--secondary-color);
+    padding:5px;
+    border-radius:2px;
+}
+#main-nav a {
+    color:white;
+    text-decoration: none;
+}
+#main-nav a:hover {
+    color:var(--primary-color);
+}
 
 /* Typography */
 
