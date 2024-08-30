@@ -47,4 +47,12 @@ h1 {
 h2{
     color:var(--primary-color);
 }
+p{
+    color:var(--primary-color)
+}
+strong {
+    background:var(--secondary-color);
+    padding:5px;
+    text-decoration-line: underline;
+}
 /* Media Queries */
