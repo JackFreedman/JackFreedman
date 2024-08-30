@@ -1,4 +1,5 @@
 /* Structure */
+
 :root{
     --primary-color:#FF8000;
     --secondary-color:#818589;
@@ -25,6 +26,7 @@ body{
 }
 
 /* Navigation */
+
 #main-nav li {
     list-style-type: none;
     display:inline-block;
@@ -41,6 +43,7 @@ body{
 }
 
 /* Typography */
+
 h1 {
     color:var(--primary-color);
 }
