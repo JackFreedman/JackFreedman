@@ -51,6 +51,11 @@ p{
     color:var(--primary-color)
 }
 
+table, th, td{
+    border: 1px #FF8000;
+    border-collapse: collapse;
+}
+
 strong {
     background:var(--secondary-color);
     padding:5px;
