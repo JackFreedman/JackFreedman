@@ -28,11 +28,11 @@ body{
     border-radius: 5px;
 }
 #main-footer{
-    background: mediumpurple;
+    background: bisque;
 }
 /* Navigation */
 #main-nav li {
-    list-styles: none;
+    list-style: none;
     border-bottom: 1px solid rgb(194, 170, 80);
 }
 #main-nav a {
@@ -50,6 +50,12 @@ h1{
     color: lightgray;
 }
 h3{
+    color: lightgray;
+}
+h2{
+    color: lightgray;
+}
+p{
     color: lightgray;
 }
 
