@@ -23,7 +23,7 @@ body{
     background:#125740;
 }
 img {
-    max width: 100%;;
+    max width: 100px;
 }
 #main-header{
     background-color:#125740;
@@ -79,4 +79,8 @@ h3{
     #main-nav li {
         flex:1;
     }
+}
+
+@media only screen and (min-width:768px){
+
 }
