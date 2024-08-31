@@ -17,14 +17,14 @@ body{
     } 
 }
 #main-aside{
-    background:blueviolet;
+    background:bisque;
 }
 #news section{
     background:#125740;
 }
 
 #main-header{
-    background-color: orange;
+    background-color: #125740;
     border-radius: 5px;
 }
 #main-footer{
