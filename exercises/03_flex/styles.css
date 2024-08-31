@@ -28,18 +28,18 @@ body{
     border-radius: 5px;
 }
 #main-footer{
-    background: #FAF9F6;
+    background: mediumpurple;
 }
 /* Navigation */
 #main-nav li {
     list-styles: none;
-    border-bottom: 1px solid #125740;
+    border-bottom: 1px solid orangered;
 }
 #main-nav a {
     text-decoration: none;
     padding: 5px;
-    background: #FAF9F6;
-    color: black;
+    background: yellow;
+    color: orchid;
     display: block;
 }
 /* Typography */
@@ -47,10 +47,10 @@ body{
     text-align: center;
 }
 h1{
-    color: #FAF9F6;
+    color: lightgray;
 }
 h3{
-    color: #FAF9F6;
+    color: lightgray;
 }
 
 /* Media Queries */
