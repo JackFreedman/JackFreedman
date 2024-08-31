@@ -21,6 +21,8 @@ body{
 }
 #news section{
     background:#125740;
+    border-radius: 5px;
+    border-color: blueviolet;
 }
 #main-middle{
     background: yellow;
