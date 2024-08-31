@@ -9,25 +9,21 @@ body{
     background:rgba(0, 0, 0, 0.8);
     border-radius: 5px;
 }
-#species section{
-    background{
-        color: #125740;
-        padding:5px;
-        margin:5px;
-    } 
+#species section {
+    background: orangered;
+    padding: 5px;
+    margin: 5px;
 }
 #main-aside{
     background:bisque;
 }
 #news section{
     background:#125740;
-    border-radius: 5px;
-    border-color: blueviolet;
-}
-#main-middle{
-    background: yellow;
 }
 
+img {
+    max-width:100%;
+}
 #main-header{
     background-color: #125740;
     border-radius: 5px;
