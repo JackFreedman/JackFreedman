@@ -33,7 +33,7 @@ body{
 /* Navigation */
 #main-nav li {
     list-styles: none;
-    border-bottom: 1px solid orangered;
+    border-bottom: 1px solid rgb(194, 170, 80);
 }
 #main-nav a {
     text-decoration: none;
