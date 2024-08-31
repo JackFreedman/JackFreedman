@@ -20,11 +20,9 @@ body{
     background:blueviolet;
 }
 #news section{
-    background:green;
+    background:#125740;
 }
-img {
-    max width: 100px;
-}
+
 #main-header{
     background-color: orange;
     border-radius: 5px;
