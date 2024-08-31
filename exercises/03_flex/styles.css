@@ -38,8 +38,8 @@ body{
 #main-nav a {
     text-decoration: none;
     padding: 5px;
-    background: yellow;
-    color: orchid;
+    background: bisque;
+    color: #125740;
     display: block;
 }
 /* Typography */
