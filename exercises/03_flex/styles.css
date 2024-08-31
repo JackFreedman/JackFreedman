@@ -17,7 +17,7 @@ body{
     } 
 }
 #main-aside{
-    background:#FFFFFF;
+    background:#FAF9F6;
 }
 #news section{
     background:#125740;
@@ -30,7 +30,7 @@ img {
     border-radius: 5px;
 }
 #main-footer{
-    background: #FFFFFF;
+    background: #FAF9F6;
 }
 /* Navigation */
 #main-nav li {
@@ -40,7 +40,7 @@ img {
 #main-nav a {
     text-decoration: none;
     padding: 5px;
-    background: #FFFFFF;
+    background: #FAF9F6;
     color: black;
     display: block;
 }
