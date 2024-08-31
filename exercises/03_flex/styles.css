@@ -17,7 +17,7 @@ body{
     } 
 }
 #main-aside{
-    background:#FAF9F6;
+    background:blueviolet;
 }
 #news section{
     background:green;
@@ -26,7 +26,7 @@ img {
     max width: 100px;
 }
 #main-header{
-    background-color:#125740;
+    background-color: orange;
     border-radius: 5px;
 }
 #main-footer{
