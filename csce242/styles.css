@@ -8,10 +8,8 @@ body{
     margin: auto;
     background: rgba(255, 255, 255, 0.8);
 }
-#main-content section{
-    background: blanchedalmond;
-    padding: 5px;
-    margin: 5px;
+#content {
+    display: flex;
 }
 
 .assign {
