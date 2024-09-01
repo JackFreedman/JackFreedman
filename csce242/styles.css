@@ -1,4 +1,14 @@
-/* Typography */
+/* Structure */
+body{
+    background: url("images/thumb16.jpg");
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+/* Typogrophy */
 h1{
     color: #818589;
 }
@@ -10,7 +20,4 @@ p{
 }
 head{
     background-color:#31D100 ;
-}
-body {
-    background-color: black;
 }
