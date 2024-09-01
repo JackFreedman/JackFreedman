@@ -10,7 +10,7 @@ body{
     border-radius: 5px;
 }
 #species section {
-    background: red;
+    background: bisque;
     padding: 5px;
     margin: 5px;
 }
@@ -48,16 +48,16 @@ img {
     text-align: center;
 }
 h1{
-    color: red;
+    color: #faecd2;
 }
 h3{
-    color: lightgray;
+    color: #00c04b;
 }
 h2{
-    color: red;
+    color: #00c04b;
 }
 p{
-    color:red;
+    color:#00c04b;
 }
 
 /* Media Queries */
