@@ -3,6 +3,11 @@ body{
     background: url("images/thumb16.jpg");
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+#content {
+    width: 95%;
+    margin: auto;
+    background: rgba(255, 255, 255, 0.8);
+}
 #Assignments section{
     background: blanchedalmond;
     padding: 5px;
