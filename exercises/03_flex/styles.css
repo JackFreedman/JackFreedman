@@ -10,12 +10,12 @@ body{
     border-radius: 5px;
 }
 #species section {
-    background: bisque;
+    background:chartreuse;
     padding: 5px;
     margin: 5px;
 }
 #main-aside{
-    background:bisque;
+    background:orange;
 }
 #news section{
     background:#125740;
@@ -29,7 +29,7 @@ img {
     border-radius: 5px;
 }
 #main-footer{
-    background: bisque;
+    background: yellow;
 }
 /* Navigation */
 #main-nav li {
@@ -39,7 +39,7 @@ img {
 #main-nav a {
     text-decoration: none;
     padding: 5px;
-    background: bisque;
+    background: purple;
     color: #125740;
     display: block;
 }
