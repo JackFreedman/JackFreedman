@@ -10,12 +10,12 @@ body{
     border-radius: 5px;
 }
 #species section {
-    background:chartreuse;
+    background:#B6B2A5;
     padding: 5px;
     margin: 5px;
 }
 #main-aside{
-    background:orange;
+    background: #f0e3ce;
 }
 #news section{
     background:#125740;
@@ -39,7 +39,7 @@ img {
 #main-nav a {
     text-decoration: none;
     padding: 5px;
-    background: purple;
+    background: #D4D2AD;
     color: #125740;
     display: block;
 }
