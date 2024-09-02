@@ -4,12 +4,13 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #content {
-    width: 95%;
-    margin: auto;
-    background: rgba(0, 5, 43, 0.8);
+    background: rgba(255, 255, 255, 0.8);
 }
 #assignments {
     display: flex;
+    width: 95%;
+    margin: auto;
+    background: rgba(0, 5, 43, 0.8);
 }
 
 #footer{
