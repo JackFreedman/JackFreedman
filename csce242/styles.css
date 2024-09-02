@@ -41,7 +41,9 @@ p{
 head{
     background-color:#6874ff ;
 }
-
+#main-footer p{
+    text-align: center;
+}
 /* Media Queries*/
 @media (min-width: 900px){
     #assignments {
