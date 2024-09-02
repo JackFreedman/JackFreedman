@@ -6,9 +6,9 @@ body{
 #content {
     width: 95%;
     margin: auto;
-    background: rgba(255, 255, 255, 0.8);
+    background: rgba(0, 5, 43, 0.8);
 }
-#content {
+#assignments {
     display: flex;
 }
 
