@@ -12,6 +12,9 @@ body{
     display: flex;
 }
 
+#main-footer{
+    background: rgb(0, 5, 43);
+}
 .assign {
     background-color: blanchedalmond;
     margin: 10px;
