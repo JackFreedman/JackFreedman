@@ -29,8 +29,12 @@ body{
 
 
 /* Typogrophy */
+#header {
+    text-align: center;
+}
 h1{
     color: #3d3d3d;
+    
 }
 h2{
     color:#fb24f8;
