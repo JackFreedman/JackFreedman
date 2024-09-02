@@ -12,7 +12,7 @@ body{
     display: flex;
 }
 
-#footer{
+#main-footer{
     background: rgba(0, 5, 43,0.8);
 }
 .assign {
@@ -41,7 +41,7 @@ p{
 head{
     background-color:#fb24f8 ;
 }
-#footer p{
+#main-footer p{
     text-align: center;
 }
 
