@@ -38,3 +38,15 @@ p{
 head{
     background-color:#6874ff ;
 }
+
+/* Media Queries*/
+@media (min-width: 900px){
+    #assignments {
+        flex: 1;
+    }
+}
+@media (max-width :768px){
+    #content {
+        display: block;
+    }
+}
