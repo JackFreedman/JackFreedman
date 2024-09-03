@@ -20,7 +20,9 @@ img{
     background: red;
     width:fit-content;
     padding: 10px;
-    position:static;
+    position:absolute;
+    bottom: 200;
+    right: 50;
 }
 
 /* Larger Resolutions*/
