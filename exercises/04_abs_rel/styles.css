@@ -1,4 +1,8 @@
 /* Structures */
+:root {
+    --main-background-color: skyblue;
+}
+
 body{
     background-color: blue;
 }
