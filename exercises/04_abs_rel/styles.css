@@ -1,0 +1,30 @@
+/* Structures */
+body{
+    background-color: blue;
+}
+
+#content{
+    background: whitesmoke;
+}
+
+
+
+.columns-all {
+    display:flex
+}
+img{
+    max-width: 100%;
+}
+
+/* Larger Resolutions*/
+@media only screen and (min-width:600px){
+    #content {
+        width: 70%;
+        margin: auto;
+    }
+    
+    
+    .columns {
+        display: flex;
+    }
+}
