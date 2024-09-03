@@ -16,6 +16,13 @@ img{
     max-width: 100%;
 }
 
+#login-menu{
+    background: red;
+    width:fit-content;
+    padding: 10px;
+    position:static;
+}
+
 /* Larger Resolutions*/
 @media only screen and (min-width:600px){
     #content {
