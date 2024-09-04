@@ -29,6 +29,17 @@ img{
     bottom: 200;
     right: 200;
 }
+/* Navigation */
+#main-nav li {
+    list-style-type: none;
+    display:inline-block;
+    background:var(--secondary-color);
+    padding:5px;
+    border-radius:2px;
+}
+
+
+
 /* TYPEOGRPOHY*/
 #main-nav{
     background: #000000;
