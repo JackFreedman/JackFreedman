@@ -28,6 +28,18 @@ img{
     bottom: 200;
     right: 200;
 }
+/* TYPEOGRPOHY*/
+#main-nav{
+    background: #73000A;
+    color: #FFFFFF;
+}
+
+
+
+
+
+
+
 
 /* Larger Resolutions*/
 @media only screen and (min-width:600px){
