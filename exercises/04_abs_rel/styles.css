@@ -5,6 +5,7 @@
 
 body{
     background-color: #73000A;
+    
 }
 
 #content{
@@ -31,6 +32,9 @@ img{
 /* TYPEOGRPOHY*/
 #main-nav{
     background: #73000A;
+
+}
+h1{
     color: #FFFFFF;
 }
 
