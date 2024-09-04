@@ -4,11 +4,11 @@
 }
 
 body{
-    background-color: blue;
+    background-color: #73000A;
 }
 
 #content{
-    background: whitesmoke;
+    background: #000000;
 }
 
 
@@ -21,12 +21,12 @@ img{
 }
 
 #login-menu{
-    background: red;
+    background: #73000A;
     width:fit-content;
     padding: 10px;
     position:absolute;
     bottom: 200;
-    right: 50;
+    right: 200;
 }
 
 /* Larger Resolutions*/
