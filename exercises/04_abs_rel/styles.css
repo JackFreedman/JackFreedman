@@ -28,7 +28,7 @@ img{
     padding: 10px;
     position:absolute;
     bottom: 0;
-    right: 0;
+    right: -100;
 }
 /* Navigation */
 #bottom-header li {
