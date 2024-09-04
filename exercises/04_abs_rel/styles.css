@@ -31,11 +31,15 @@ img{
 }
 /* Navigation */
 #main-nav li {
-    list-style-type: none;
-    display:inline-block;
-    background:var(--secondary-color);
-    padding:5px;
-    border-radius:2px;
+    list-style: none;
+    border-bottom: 2px solid color #73000A;
+}
+#main-nav a {
+    text-decoration: none;
+    padding: 5px;
+    background: #000000;
+    color: #FFFFFF;
+    display: block;
 }
 
 
