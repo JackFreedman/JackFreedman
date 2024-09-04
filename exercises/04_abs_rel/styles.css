@@ -2,16 +2,16 @@
 :root {
     --primary-color:#73000A;
     --secondary-color:#000000;
-    --background-color: #FFFFFF;
+
 }
 
 #main-header{
-    background-color: var(--secondary-color);
+    background-color: var(--primary-color);
     
 }
 
 #bottom-header{
-    background-color: var(--primary-color);
+    background-color: var(--secondary-color);
 }
 
 
@@ -39,7 +39,7 @@ img{
     text-decoration: none;
     padding: 5px;
     background: var(--secondary-color);
-    color: var(--background-color);
+    color: white;
     display: block;
 }
 
