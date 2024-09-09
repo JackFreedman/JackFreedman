@@ -132,3 +132,16 @@ body{
 #social-links li{
     list-style: none;
 }
+#school-links li{
+    list-style: none;
+}
+#bottom-footer{
+    background: black;
+}
+#bottom-footer{
+    padding: 5px;
+    position: relative;
+    left: 10%;
+}
+
+/* Navigation */
