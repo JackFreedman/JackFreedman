@@ -178,7 +178,9 @@ body{
     font-weight: strong;
 }
 
-
+#top-header ul{
+    color: white;
+}
 
 #user-nav{
     font-size: xx-small;
@@ -260,6 +262,10 @@ body{
     min-width:0;
     min-height:0;
     overflow:hidden;
+    }
+    #top-header{
+        flex: 1;
+        flex-direction: row;
     }
     #third-quad {
     flex:1;
