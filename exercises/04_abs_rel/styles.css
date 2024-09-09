@@ -31,3 +31,17 @@ body{
 #first-image{
     width: 100%;
 }
+#Your-educational-investment button:hover #next-step button:hover{
+    background-color: white;
+    color: #73000A;
+    border: 2px solid #73000A;
+}
+#degree-programs{
+    background: #73000A;
+}
+#Your-educational-investment{
+    text-align: center;
+    width: 15%;
+    display: inline;
+    background-color: #ECECEC;
+}
