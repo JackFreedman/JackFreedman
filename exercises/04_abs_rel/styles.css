@@ -45,3 +45,14 @@ body{
     display: inline;
     background-color: #ECECEC;
 }
+#Your-educational-investment p{
+    text-align: center auto;
+    color: black;
+    font-size: medium;
+    background: #ECECEC;
+}
+#Your-educational-investment button{
+    display: block;
+    margin: 0 auto;
+    background: #ECECEC;
+}
