@@ -234,6 +234,9 @@ body{
     #main-nav li {
     flex: 1;
     }
+    #user-nav li{
+        flex: 1;
+    }
     #logo {
     padding: 5px;
     justify-content: space-between;
