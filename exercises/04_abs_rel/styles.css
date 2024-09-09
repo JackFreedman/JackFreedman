@@ -34,7 +34,7 @@ body{
 #Your-educational-investment button:hover #next-step button:hover{
     background-color: white;
     color: #73000A;
-    border: 2px solid #73000A;
+    border: 5px solid #73000A;
 }
 #degree-programs{
     background: #73000A;
@@ -58,7 +58,7 @@ body{
 }
 #degree-programs button{
     background-color: black;
-    border: 2px solid white;
+    border: 5px solid white;
     padding: 10px;
     width: fit-content;
 }
@@ -115,4 +115,20 @@ body{
     color: white;
     line-height: 1.5;
     margin-bottom: 20px;
+}
+#next-step button{
+    background-color: #73000A;
+    border: 5px solid white;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+}
+#next-step img{
+    padding:10px;
+}
+#main-footer{
+    background: #73000A;
+}
+#social-links li{
+    list-style: none;
 }
