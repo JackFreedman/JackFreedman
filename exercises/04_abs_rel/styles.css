@@ -142,6 +142,8 @@ body{
     padding: 5px;
     position: relative;
     left: 10%;
+    width: 90%;
+    max-width: 100%;
 }
 
 /* Navigation */
