@@ -12,6 +12,12 @@ body{
     margin: auto;
     background: rgba(0, 5, 43, 0.8);
 }
+#projects {
+    display: flex;
+    width: 95%;
+    margin: auto;
+    background: rgba(0, 5, 43, 0.8);
+}
 
 #footer{
     background: rgba(0, 5, 43,0.8);
