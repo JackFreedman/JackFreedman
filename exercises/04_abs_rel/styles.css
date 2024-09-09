@@ -84,3 +84,35 @@ body{
     display: flex;
     margin-left: 5%;
 }
+#pay-for-school{
+    background-color: white;
+    width: 90%;
+    max-width: 100%;
+}
+#pay-for-school p{
+    text-align: center;
+    padding: 50px;
+    margin: auto;
+}
+.paying-college:hover{
+    background-color: white;
+}
+.paying-college p{
+    text-align: left;
+}
+#pay-for-school .flex-container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    max-width: 100%;
+}
+#next-step{
+    background-color: black;
+    align-items: center;
+    padding: 25px;
+}
+#next-step p{
+    color: white;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
