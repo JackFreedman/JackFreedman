@@ -225,41 +225,41 @@ body{
 /* Larger Resolutions */
 .top-header ul, .flex-container {
     display: flex;
-    }
-    #user-nav ul {
+}
+#user-nav ul {
     position: relative;
     top: 0%;
     left:45%;
-    }
-    #main-nav li {
+}
+#main-nav li {
     flex: 1;
-    }
-    #user-nav li{
-        flex: 1;
-    }
-    #logo {
+ }
+ #user-nav li{
+    flex: 1;
+}
+#logo {
     padding: 5px;
     justify-content: space-between;
     margin: 10px 0;
     box-sizing: border-box;
-    }
-    .padding-right{
+}
+.padding-right{
     padding-right:20px;
-    }
-    #first-quad h1 {
+ }
+ #first-quad h1 {
     margin-top: -40px;
     margin-left: 10%;
     font-size: 3em;
-    }
-    #first-quad p {
+}
+#first-quad p {
     margin-left: 10%;
     margin-right: 10%;
     font-size: 1.1em;
-    }
-    #columns {
+}
+ #columns {
     flex: 4;
     flex-direction: columns;
-    }
+}
     #degree-programs {
     flex: 1;
     min-width:0;
@@ -267,38 +267,39 @@ body{
     overflow:hidden;
     }
     #top-header{
-        flex: 1;
-        flex-direction: row;
+    flex: 1;
+    flex-direction: row;
+    }
+    
+    .second-quad{
+    flex: 1;
+    flex-direction: row;
     }
     #third-quad {
     flex:1;
     flex-direction: columns;
-    }
-    .second-quad{
-        flex: 1;
-        flex-direction: row;
-    }
+        }
     .final-quad{
-        flex: 1;
-        flex-direction: row;
-    }
-    #your-educational-investment {
     flex: 1;
-    }
-    #pay-for-school .flex-container {
+    flex-direction: row;
+ }
+#your-educational-investment {
+    flex: 1;
+}
+#pay-for-school .flex-container {
     margin-left: 5%;
     margin-right: 5%;
     box-sizing: border-box;
     justify-content: space-between;
-    }
-    .paying-college {
+}
+.paying-college {
     margin: 20px;
-    }
-    #social-links {
+}
+#social-links {
     position: absolute;
     right: 5%;
-    }
-    .next-step{
-        flex: 1;
-        flex-direction: columns;
-    }
+}
+.next-step{
+    flex: 1;
+    flex-direction: columns;
+}
