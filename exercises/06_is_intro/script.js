@@ -1,13 +1,3 @@
-function dostuff(){
-    alert("hello");
-};
-
-const myButton = document.getElementById("Button-click");
-myButton.innerHTML = "click party";
-
-const doStuff = () =>{
-    alert("Hello World!");
-};
 
 const myButton2 = document.getElementById("Button-click2");
 
