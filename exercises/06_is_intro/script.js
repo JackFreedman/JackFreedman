@@ -1,9 +1,8 @@
+// clicker counter
+let count=0
 
-const myButton2 = document.getElementById("Button-click2");
+document.getElementById("count").addEventListener("click"), ()=>{
+    count++;
+    document.getElementById("counter").innerHTML=count;
+};
 
-myButton.onclick = () => {
-    document.getElementById("message").innerHTML = "Goodbye!"
-}
-
-//ADD a second button, called say goodbye 
-//When clicked change text to goodbye everyone and remove the special styles
