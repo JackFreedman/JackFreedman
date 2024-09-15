@@ -10,3 +10,11 @@ document.getElementById("count").addEventListener("click", ()=>{
 document.getElementById("picture").addEventListener("click",()=>{
     window.location.reload();
 });
+
+//slider bar
+document.getElementById("boxslider").addEventListener("input", (event)=>{
+    const sliderValue = document.getElementById("boxslider").value;
+    const box =document.getElementById("movableBox");
+
+    box.style.left = '${sliderValue}px';
+});
