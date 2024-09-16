@@ -141,5 +141,52 @@ body{
         color: white;
        }
 
-   
-   
+      /* Driver outfits*/
+      .Helmet-Gear {
+        background-color: black;
+        margin: 10px;
+        padding: 10px;
+        border-radius: 20px;
+        display: block;
+        width: 45%;
+        box-shadow: 8px 8px #FE553C;
+        align-items: center;
+       }
+       .bio-gloves {
+        background-color: black;
+        margin: 10px;
+        padding: 10px;
+        border-radius: 20px;
+        display: block;
+        width: 45%;
+        box-shadow: 8px 8px #FE553C;
+        align-items: center;
+       }
+       .suit {
+        background-color: black;
+        margin: 10px;
+        padding: 10px;
+        border-radius: 20px;
+        display: block;
+        width: 45%;
+        box-shadow: 8px 8px #FE553C;
+        align-items: center;
+       }
+       #helmet p {
+        color: #FE553C;
+       }
+       #helmet h3{
+        color:  #FE553C;
+       }
+       #gloves p {
+        color: #FE553C;
+       }
+       #gloves h3{
+        color:  #FE553C;
+       }
+       #flame-suit p {
+        color: #FE553C;
+       }
+       #flame-suit h3{
+        color:  #FE553C;
+       }
