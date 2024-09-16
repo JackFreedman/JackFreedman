@@ -7,7 +7,7 @@ document.getElementById("count").addEventListener("click", ()=>{
 });
 
 //Random picture Gen
-document.getElementById("picture").addEventListener("click",()=>{
+document.getElementById("picture").addEventListener("click", ()=>{
     window.location.reload();
 });
 
