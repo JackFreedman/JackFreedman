@@ -26,7 +26,7 @@ header{
   color:orange;
 }
 
-#count, #image, .slider{
+#count, #picture, .slider{
   flex: 1;
   background-color: rgb(255, 207, 179);
   border-radius: 15px;
