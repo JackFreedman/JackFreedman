@@ -70,6 +70,8 @@ body{
     box-shadow: 8px 8px #ffe0c3;
    
    }
+
+
 #old-car p {
     color:#ffe0c3 ;
 }
@@ -86,3 +88,27 @@ body{
     position: bottom;
     height: 25px;
 }
+
+
+/* MEMORIAL*/
+.Senna-memorial {
+    background-color: black;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    display: block;
+    width: 45%;
+    box-shadow: 8px 8px #FE553C;
+   
+   }
+
+   .Jules-memorial {
+    background-color: black;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    display: block;
+    width: 45%;
+    box-shadow: 8px 8px #DA070E;
+   
+   }
