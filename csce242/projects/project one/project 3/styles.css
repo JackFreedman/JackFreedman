@@ -117,11 +117,15 @@ body{
    #Ayrton-Senna p {
     color: #FE553C;
    }
-
+   #Ayrton-Senna h3{
+    color:  #FE553C;
+   }
    #Jules-Bianchi p {
     color: #DA070E;
    }
-
+   #Jules-Bianchi h3 {
+    color: #DA070E;
+   }
 
    /* FIA*/
    .FIA {
@@ -136,5 +140,6 @@ body{
     #FIA-logo p {
         color: white;
        }
+
    
    
