@@ -190,3 +190,53 @@ body{
        #flame-suit h3{
         color:  #FE553C;
        }
+
+       /*  CAR */
+        .Halo {
+        background-color: black;
+        margin: 10px;
+        padding: 10px;
+        border-radius: 20px;
+        display: block;
+        width: 45%;
+        box-shadow: 8px 8px #FE553C;
+        align-items: center;
+       }
+       .survival-cell {
+        background-color: black;
+        margin: 10px;
+        padding: 10px;
+        border-radius: 20px;
+        display: block;
+        width: 45%;
+        box-shadow: 8px 8px #FE553C;
+        align-items: center;
+       }
+       .fuel-cell {
+        background-color: black;
+        margin: 10px;
+        padding: 10px;
+        border-radius: 20px;
+        display: block;
+        width: 45%;
+        box-shadow: 8px 8px #FE553C;
+        align-items: center;
+       }
+       #CAR-halo p {
+        color: #FE553C;
+       }
+       #CAR-halo h3{
+        color:  #FE553C;
+       }
+       #CAR-survival p {
+        color: #FE553C;
+       }
+       #CAR-survival h3{
+        color:  #FE553C;
+       }
+       #CAR-fuel p {
+        color: #FE553C;
+       }
+       #CAR-fuel h3{
+        color:  #FE553C;
+       }
