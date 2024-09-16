@@ -52,7 +52,7 @@ header{
 
 .click-count h3{
   margin-top: 0;
-  color: bisque;
+  color: #7d7d7d;
 }
 
 .random-picture{
@@ -71,7 +71,7 @@ header{
   position: relative;
   width: 80%;
   height: 200px;
-  background-color: blueviolet;
+  background-color: #7d7d7d;
 }
 
 
