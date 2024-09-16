@@ -63,3 +63,23 @@ header{
   width: 80%;
   margin: 10px 0;
 }
+
+.slider-container{
+  position: relative;
+  width: 80%;
+  height: 200px;
+  background-color: blueviolet;
+}
+
+
+
+/* media */
+
+@media(max-width: 800px) {
+  #flex-container{
+    flex-direction: column;
+  }
+  #count,#image,.slider{
+    width: 80%;
+  }
+}
