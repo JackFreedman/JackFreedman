@@ -99,7 +99,7 @@ body{
     display: block;
     width: 45%;
     box-shadow: 8px 8px #FE553C;
-   
+    align-items: center;
    }
 
    .Jules-memorial {
@@ -110,6 +110,7 @@ body{
     display: block;
     width: 45%;
     box-shadow: 8px 8px #DA070E;
+    align-items: center;
    
    }
 
