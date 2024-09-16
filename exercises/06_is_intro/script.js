@@ -14,7 +14,7 @@ document.getElementById("picture").addEventListener("click",()=>{
 //slider bar
 document.getElementById("boxslider").addEventListener("input", (event)=>{
     const sliderValue = document.getElementById("boxslider").value;
-    const box =document.getElementById("movableBox");
+    const box =document.getElementById("moveableBox");
 
     box.style.left = '${sliderValue}px';
 });
