@@ -9,7 +9,7 @@ header{
   text-align: center;
   margin-bottom: 25px;
 }
-#main-content{
+#main{
   max-width:1200px;
   margin: 0 auto;
 }
@@ -21,7 +21,7 @@ header{
   gap: 25px;
 }
 
-#main-content h1 h2{
+#main h1 h2{
   text-align: center;
   color:orange;
 }
@@ -57,4 +57,9 @@ header{
   height: auto;
   display: block;
   margin-top: 10px;
+}
+
+.sliderbox{
+  width: 80%;
+  margin: 10px 0;
 }
