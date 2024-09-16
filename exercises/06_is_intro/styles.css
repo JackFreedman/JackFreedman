@@ -38,3 +38,23 @@ header{
   min-height: 250px;
 }
 
+.click-count{
+  background-color: aqua;
+}
+.click-count p{
+  font-size: 75%;
+  margin: 0;
+  text-align: center;
+}
+
+.click-count h3{
+  margin-top: 0;
+  color: bisque;
+}
+
+.random-picture{
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-top: 10px;
+}
