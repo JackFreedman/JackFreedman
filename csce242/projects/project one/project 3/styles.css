@@ -70,7 +70,12 @@ body{
     box-shadow: 8px 8px #ffe0c3;
    
    }
-
+#old-car p {
+    color:#ffe0c3 ;
+}
+#new-car p {
+    color:#ffe0c3 ;
+}
 
 #footer{
     background-color: black;
