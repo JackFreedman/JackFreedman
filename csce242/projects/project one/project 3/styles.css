@@ -240,3 +240,15 @@ body{
        #CAR-fuel h3{
         color:  #FE553C;
        }
+
+       /* Media Queries*/
+@media (min-width: 900px){
+    #content {
+        flex: 1;
+    }
+}
+@media (max-width :768px){
+    #content {
+        display: block;
+    }
+}
