@@ -20,14 +20,14 @@ exercise2Link.addEventListener("click", (e) => {
     showExercise("pictures");
 });
 
-//showExercise function
-function showExercise(exercise) {
+
+function showExercise(exercises: any):any{
     document.getElementById('colors').style.display = 'none';
     document.getElementById('pictures').style.display = 'none';
     document.getElementById(exercise).style.display = 'block';
 }
 
-//Slider
+
 slider.addEventListener("input", updateColor);
 
 function updateColor() {
@@ -47,7 +47,7 @@ function updateColorMessage(value) {
     }
 }
 
-//Picture
+
 smallbutton.addEventListener("click", () => showPicture("small"));
 mediumbutton.addEventListener("click", () => showPicture("medium"));
 largebutton.addEventListener("click", () => showPicture("large"));
@@ -67,7 +67,7 @@ function showPicture(size) {
     picturecontainer.innerHTML = `<img src="https://picsum.photos/${width}/${height}" alt="${size} random image">`;
 }
 
-//Arrow Nav
+
 arrowToggle.addEventListener("click", ()=> {
     if (navItems.style.display == "none" || navItems.style.display == "") {
         navItems.style.display = "block";
