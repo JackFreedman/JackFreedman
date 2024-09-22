@@ -56,11 +56,6 @@ header h1, header h2{
     text-align: center;
     color: #FF8000;
 }
-
-.exercises{
-    margin-bottom: 30px;
-}
-
 .exercises a{
     color: #FF8000;
     text-decoration: none;
@@ -69,6 +64,11 @@ header h1, header h2{
     border: 1px solid black;
     border-radius: 5px;
 }
+.exercises{
+    margin-bottom: 30px;
+}
+
+
 
 #colors, #pictures{
     display: none;
@@ -88,7 +88,7 @@ header h1, header h2{
 button{
     margin: 5px;
     padding: 10px;
-    background-color: lightblue;
+    background-color: #FF8000;
     color: white;
     border: none;
     border-radius: 10px;
