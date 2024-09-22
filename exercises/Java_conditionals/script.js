@@ -24,7 +24,7 @@ exercise2Link.addEventListener("click", (e) => {
 function showExercise(exercise){
     document.getElementById('colors').style.display = 'none';
     document.getElementById('pictures').style.display = 'none';
-    document.getElementById(exercise).style.display = 'block';
+    document.getElementById(exercises).style.display = 'block';
 }
 
 
