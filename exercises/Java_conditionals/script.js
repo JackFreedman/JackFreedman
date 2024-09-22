@@ -1,5 +1,5 @@
 const slider = document.getElementById("slider");
-const colorslider = document.getElementById("color-slider");
+const colorslider = document.getElementById("colors");
 const colormessage = document.getElementById("color-message");
 const exercise1Link = document.getElementById("exercise1");
 const exercise2Link = document.getElementById("exercise2");
@@ -12,12 +12,12 @@ const navItems = document.getElementById("nav-items");
 
 exercise1Link.addEventListener("click", (e) => {
     e.preventDefault();
-    showExercise("color-slider");
+    showExercise("colors");
 });
 
 exercise2Link.addEventListener("click", (e) => {
     e.preventDefault();
-    showExercise("picture-chooser");
+    showExercise("pictures");
 });
 
 //showExercise function
