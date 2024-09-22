@@ -1,3 +1,9 @@
+header{
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-color:lightblue;
@@ -7,11 +13,6 @@ body{
     text-align: center;
     justify-content: center;
     align-items: center;
-}
-
-header{
-    text-align: center;
-    margin-bottom: 15px;
 }
 
 #nav-items{
@@ -56,11 +57,11 @@ header h1, header h2{
     color: #FF8000;
 }
 
-.exercise-links{
+.exercises{
     margin-bottom: 30px;
 }
 
-.exercise-links a{
+.exercises a{
     color: #FF8000;
     text-decoration: none;
     margin: 0 10px;
@@ -69,7 +70,7 @@ header h1, header h2{
     border-radius: 5px;
 }
 
-#color-slider, #picture-chooser{
+#colors, #pictures{
     display: none;
     margin-top: 20px;
     padding: 20px;
@@ -107,7 +108,7 @@ footer{
 }
 
 @media (max-width: 768px){
-    .exercise-links{
+    .exercises{
         display: none;
     }
 }
