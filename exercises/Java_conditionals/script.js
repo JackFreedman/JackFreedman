@@ -39,11 +39,11 @@ function updateColor() {
 
 function updateColorMessage(value) {
     if (value < 85) {
-        colormessage.innerHTML = "Calm";
+        colormessage.innerHTML = "Go";
     } else if (value < 170) {
-        colormessage.innerHTML = "Cool";
+        colormessage.innerHTML = "Game";
     } else {
-        colormessage.innerHTML = "Collected";
+        colormessage.innerHTML = "Cocks";
     }
 }
 
