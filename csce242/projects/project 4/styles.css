@@ -1,0 +1,259 @@
+/*Structure*/
+body{
+    margin:0;
+    padding:0;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow-x: hidden;
+}
+#assign {
+    display: flex;
+    width: 95%;
+    margin: auto;
+    background: rgba(0, 5, 43, 0.8);
+}
+/*Header*/
+#main-header{
+    background-color: black;
+    color: #ffe0c3;
+    padding: 20px;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1800px;
+    margin: 0 auto;
+    padding: 0px;
+    font-size: 20px;
+}
+#main-header #main-nav .columns{
+    display: flex;
+    justify-content: space-between;
+}
+
+.title{
+    display: flex;
+    align-items:center;
+}
+
+#main-header h1{
+    margin: 0;
+    font-size: 30px;
+}
+
+#main-header ul{
+    list-style: none;
+    padding: 0px;
+    display: flex;
+}
+
+#main-header li{
+    margin-left: 20px;
+}
+
+#main-header li a{
+    color: #ffe0c3;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+}
+
+/*MAIN PAGE */
+#main-content{
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.assign {
+    background-color: black;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    display: block;
+    width: 45%;
+    box-shadow: 8px 8px #ffe0c3;
+   
+   }
+
+
+#old-car p {
+    color:#ffe0c3 ;
+}
+#new-car p {
+    color:#ffe0c3 ;
+}
+
+#footer{
+    background-color: black;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 20px;
+    color: #ffe0c3;
+    position: bottom;
+    height: 25px;
+}
+
+
+/* MEMORIAL*/
+.Senna-memorial {
+    background-color: black;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    display: block;
+    width: 45%;
+    box-shadow: 8px 8px #FE553C;
+    align-items: center;
+   }
+
+   .Jules-memorial {
+    background-color: black;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    display: block;
+    width: 45%;
+    box-shadow: 8px 8px #DA070E;
+    align-items: center;
+   
+   }
+
+   #Ayrton-Senna p {
+    color: #FE553C;
+   }
+   #Ayrton-Senna h3{
+    color:  #FE553C;
+   }
+   #Jules-Bianchi p {
+    color: #DA070E;
+   }
+   #Jules-Bianchi h3 {
+    color: #DA070E;
+   }
+
+   /* FIA*/
+   .FIA {
+    background-color: black;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    display: block;
+    width: 45%;
+    box-shadow: 8px 8px #083564;
+   }
+    #FIA-logo p {
+        color: white;
+       }
+
+      /* Driver outfits*/
+      .Helmet-gear {
+        background-color: black;
+        margin: 10px;
+        padding: 10px;
+        border-radius: 20px;
+        display: block;
+        width: 45%;
+        box-shadow: 8px 8px #FE553C;
+        align-items: center;
+       }
+       .bio-gloves {
+        background-color: black;
+        margin: 10px;
+        padding: 10px;
+        border-radius: 20px;
+        display: block;
+        width: 45%;
+        box-shadow: 8px 8px #FE553C;
+        align-items: center;
+       }
+       .suit {
+        background-color: black;
+        margin: 10px;
+        padding: 10px;
+        border-radius: 20px;
+        display: block;
+        width: 45%;
+        box-shadow: 8px 8px #FE553C;
+        align-items: center;
+       }
+       #Helmet p {
+        color: #FE553C;
+       }
+       #Helmet h3{
+        color:  #FE553C;
+       }
+       #gloves p {
+        color: #FE553C;
+       }
+       #gloves h3{
+        color:  #FE553C;
+       }
+       #flame-suit p {
+        color: #FE553C;
+       }
+       #flame-suit h3{
+        color:  #FE553C;
+       }
+
+       /*  CAR */
+        .Halo {
+        background-color: black;
+        margin: 10px;
+        padding: 10px;
+        border-radius: 20px;
+        display: block;
+        width: 45%;
+        box-shadow: 8px 8px #FE553C;
+        align-items: center;
+       }
+       .survival-cell {
+        background-color: black;
+        margin: 10px;
+        padding: 10px;
+        border-radius: 20px;
+        display: block;
+        width: 45%;
+        box-shadow: 8px 8px #FE553C;
+        align-items: center;
+       }
+       .fuel-cell {
+        background-color: black;
+        margin: 10px;
+        padding: 10px;
+        border-radius: 20px;
+        display: block;
+        width: 45%;
+        box-shadow: 8px 8px #FE553C;
+        align-items: center;
+       }
+       #CAR-Halo p {
+        color: #FE553C;
+       }
+       #CAR-Halo h3{
+        color:  #FE553C;
+       }
+       #CAR-survival p {
+        color: #FE553C;
+       }
+       #CAR-survival h3{
+        color:  #FE553C;
+       }
+       #CAR-fuel p {
+        color: #FE553C;
+       }
+       #CAR-fuel h3{
+        color:  #FE553C;
+       }
+
+       /* Media Queries*/
+@media (min-width: 900px){
+    #content {
+        flex: 1;
+    }
+}
+@media (max-width :768px){
+    #content {
+        display: block;
+    }
+}
