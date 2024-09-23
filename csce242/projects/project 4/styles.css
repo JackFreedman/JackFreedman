@@ -254,7 +254,7 @@ img{
 
        /* Hamburger*/
     
-    #hamburger-menu{
+    #hamburger{
         display: none;
         background: none;
         border: none;
@@ -262,7 +262,7 @@ img{
         padding: 20px;
     }
     
-    #hamburger-menu div{
+    #hamburger div{
         display: block;
         width: 20px;
         height: 10px;
