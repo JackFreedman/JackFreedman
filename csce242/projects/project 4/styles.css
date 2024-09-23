@@ -251,12 +251,12 @@ img{
 
        /* Media Queries*/
 @media (min-width: 900px){
-    #content {
+    #main-content {
         flex: 1;
     }
 }
 @media (max-width :768px){
-    #content {
+    #main-content {
         display: block;
     }
 }
