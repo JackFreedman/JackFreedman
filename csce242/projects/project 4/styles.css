@@ -254,7 +254,7 @@ img{
 
        /* Hamburger*/
     
-    ##hamburger-menu{
+    #hamburger-menu{
         display: none;
         background: none;
         border: none;
