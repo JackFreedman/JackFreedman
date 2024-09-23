@@ -81,10 +81,10 @@ img{
 
 
 #old-car p {
-    color:#ffe0c3 ;
+    color:#ba0000 ;
 }
 #new-car p {
-    color:#ffe0c3 ;
+    color:#ba0000 ;
 }
 
 #footer{
@@ -92,7 +92,7 @@ img{
     text-align: center;
     padding: 10px 0;
     font-size: 20px;
-    color: #ffe0c3;
+    color: #ba0000;
     position: bottom;
     height: 25px;
 }
