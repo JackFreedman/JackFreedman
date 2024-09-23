@@ -252,6 +252,24 @@ img{
         color:  #FE553C;
        }
 
+       /* Hamburger*/
+    
+    ##hamburger-menu{
+        display: none;
+        background: none;
+        border: none;
+        cursor: pointer;
+        padding: 20px;
+    }
+    
+    #hamburger-menu div{
+        display: block;
+        width: 20px;
+        height: 10px;
+        background-color: #FE553C;
+        margin: 10px 0;
+        transition: 05s;
+    }
        /* Media Queries*/
 @media (min-width: 900px){
     #main-content {
