@@ -146,8 +146,11 @@ img{
     box-shadow: 8px 8px #FA1D00;
    }
     #FIA-logo p {
-        color: white;
+        color: #FE553C;
        }
+    #FIA-logo h3 {
+        color: #FE553C;
+    }
 
       /* Driver outfits*/
       .Helmet-gear {
