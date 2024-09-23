@@ -14,7 +14,7 @@ body{
 /*Header*/
 #main-header{
     background-color: black;
-    color: #ffe0c3;
+    color: #FA1D00;
     padding: 20px;
 }
 
@@ -53,7 +53,7 @@ body{
 }
 
 #main-header li a{
-    color: #ffe0c3;
+    color: #FA1D00;
     text-decoration: none;
     display: block;
     text-align: center;
@@ -72,7 +72,7 @@ body{
     border-radius: 20px;
     display: block;
     width: 45%;
-    box-shadow: 8px 8px #ffe0c3;
+    box-shadow: 8px 8px #FA1D00;
    
    }
 
