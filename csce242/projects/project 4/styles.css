@@ -257,3 +257,15 @@ body{
         display: block;
     }
 }
+
+#hamburger-menu{
+    display: block;
+}
+
+#flex-container{
+    flex-direction: column;
+}
+
+.flex-container{
+    flex-direction: column;
+}
