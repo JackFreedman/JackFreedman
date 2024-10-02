@@ -1,0 +1,19 @@
+
+
+
+
+header{
+    text-align: center;
+    margin-bottom: 15px;
+    background-color: forestgreen;
+}
+body{
+    text-align: center;
+    margin-bottom: 15px;
+    background-color: black;
+}
+footer{
+    text-align: center;
+    margin-bottom: 15px;
+    background-color: rgb(10, 40, 10);
+}
