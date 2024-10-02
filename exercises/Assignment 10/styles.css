@@ -1,0 +1,17 @@
+header{
+    text-align: center;
+    margin-bottom: 15px;
+    
+}
+body{
+    text-align: center;
+    margin-bottom: 15px;
+    background-color: lightblue;
+    
+}
+footer{
+    text-align: center;
+    margin-bottom: 15px;
+    background-color: rgb(57, 73, 108);
+
+}
