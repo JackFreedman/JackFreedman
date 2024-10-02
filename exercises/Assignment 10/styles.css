@@ -15,3 +15,13 @@ footer{
     background-color: rgb(57, 73, 108);
 
 }
+
+image-list img{
+    background-color: black;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    display: block;
+    width: 45%;
+    box-shadow: 8px 8px #FA1D00;
+}
