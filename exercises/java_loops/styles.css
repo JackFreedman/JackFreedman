@@ -13,9 +13,34 @@ body{
     background-color: forestgreen;
     
 }
+.black-box {
+    
+    width:500px;
+    height:500px;
+    background-color: black;
+    position: relative;
+    margin: 0 auto;
+    border:  1px greenyellow;
+    overflow: hidden;
+}
 footer{
     text-align: center;
     margin-bottom: 15px;
     background-color: rgb(92, 117, 92);
 
 }
+
+
+.star {
+    position: absolute;
+    width: 30px;  
+    aspect-ratio: 1;
+    background-color: yellow;
+    clip-path: polygon(50% 0,
+      calc(50%*(1 + sin(.4turn))) calc(50%*(1 - cos(.4turn))),
+      calc(50%*(1 - sin(.2turn))) calc(50%*(1 - cos(.2turn))),
+      calc(50%*(1 + sin(.2turn))) calc(50%*(1 - cos(.2turn))),
+      calc(50%*(1 - sin(.4turn))) calc(50%*(1 - cos(.4turn))) 
+     ); 
+    /*  link to website i used to get the star shape. https://css-shape.com/star/ */
+  }

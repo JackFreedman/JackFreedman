@@ -63,8 +63,11 @@ head{
         flex: 1;
     }
 }
-@media (max-width :768px){
+@media (max-width :10000px){
     #content {
         display: block;
+    }
+    #main-nav {
+        display: hidden;
     }
 }
